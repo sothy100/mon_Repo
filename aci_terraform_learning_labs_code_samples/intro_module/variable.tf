@@ -3,8 +3,7 @@ variable "user" {
   type        = map
   default     = {
     username = "admin"
-    #username = "admin"
-    #password = "!v3G@!4@Y"
+    password = "!v3G@!4@Y"
     url      = "https://sandboxapicdc.cisco.com"
   }
 }
